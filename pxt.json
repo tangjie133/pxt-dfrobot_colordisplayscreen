@@ -1,0 +1,19 @@
+{
+    "name": "Colordisplayscreen",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "description": "",
+    "files": [
+        "README.md",
+        "Colordisplayscreen.ts",
+        "_locales/zh-cn/Colordisplayscreen-strings.json"
+    ],
+    "preferredEditor": "tsprj",
+    "testFiles": [
+        "test.ts"
+    ],
+    "version": "1.0.1",
+    "installedVersion": "workspace:70a6038c-d69d-41a1-746e-758868176b72"
+}
